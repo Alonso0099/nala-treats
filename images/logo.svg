@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Logo de Nala's Treats Repostería">
+  <circle cx="60" cy="60" r="58" fill="#FBEFE4" stroke="#D8A94F" stroke-width="3"/>
+  <circle cx="60" cy="66" r="26" fill="#F3C9CE"/>
+  <circle cx="42" cy="46" r="7" fill="#F3C9CE"/>
+  <circle cx="60" cy="36" r="7" fill="#F3C9CE"/>
+  <circle cx="78" cy="46" r="7" fill="#F3C9CE"/>
+  <circle cx="52" cy="62" r="4" fill="#8B5E3C"/>
+  <circle cx="68" cy="62" r="4" fill="#8B5E3C"/>
+  <circle cx="60" cy="74" r="4" fill="#8B5E3C"/>
+  <text x="60" y="105" font-family="Poppins, sans-serif" font-size="14" font-weight="700" fill="#5A3E2B" text-anchor="middle">Nala's Treats</text>
+</svg>

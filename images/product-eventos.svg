@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Postres para eventos">
+  <rect width="400" height="300" rx="18" fill="#FBEFE4"/>
+  <circle cx="200" cy="120" r="70" fill="#8B5E3C"/>
+  <circle cx="175" cy="100" r="8" fill="#D8A94F"/>
+  <circle cx="220" cy="95" r="6" fill="#D8A94F"/>
+  <circle cx="205" cy="135" r="7" fill="#D8A94F"/>
+  <circle cx="165" cy="140" r="5" fill="#D8A94F"/>
+  <circle cx="230" cy="135" r="5" fill="#D8A94F"/>
+  <text x="200" y="235" font-family="Poppins, sans-serif" font-size="20" font-weight="600" fill="#5A3E2B" text-anchor="middle">Postres para eventos</text>
+  <text x="200" y="262" font-family="Poppins, sans-serif" font-size="13" fill="#8B6F5C" text-anchor="middle">Nala's Treats</text>
+</svg>
