@@ -3,6 +3,8 @@
 Landing page para Nala's Treats, repostería artesanal por encargo en Costa Rica.
 Construida con **HTML, CSS y JavaScript puro** (sin frameworks ni librerías).
 
+🔗 Sitio en producción: https://nala-treats.vercel.app
+
 ## Cómo verla
 
 No necesita instalación ni build. Solo abre `index.html` en tu navegador
